@@ -1,5 +1,7 @@
 # soundshuman
 
+[![AgentShield Security](https://merx.help/badge/A+.svg)](https://merx.help/shield)
+
 Keep AI slop out of your prose and your repo.
 
 This is a merger of the best parts of the current anti-slop tooling: one skill that rewrites text like a careful human editor, one rule pack that machines can enforce, and one zero-dependency CLI that audits whole repos and gates CI. The goal is not beating AI detectors. It is a workflow you can inspect: visible rules, explainable scores, reviewable diffs.
